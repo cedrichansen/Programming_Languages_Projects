@@ -4,4 +4,4 @@
 
 Final Projects for csc344 (programming languages), which is a python program that takes all previous assingments 
 done in the course, creates and html for for each of them (containing list of identifiers), zips all files (html
-and source files), and emails them to whatever email address is provided by the user.
+and source files), and emails them to whatever email address is provided by the user. And, Yes, I know my prolog assignment is a hack
